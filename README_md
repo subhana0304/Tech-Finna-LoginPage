@@ -1,0 +1,6 @@
+/**
+1. Task for TechFinna
+2. If User is new in this Website they has to Register or sign up by Clicking SignUp link.
+3. If User has already Account then they can Easily 1LoginPage.
+4. After login They can see there user name and email. For security purpose Password can't show.
+**/
